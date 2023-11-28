@@ -6583,24 +6583,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {},
-    "E:\\visual studio\\NuGetPackages": {}
+    "C:\\Users\\slavi\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\studying\\тестування\\lab3\\lab3\\lab3.csproj",
+      "projectUniqueName": "C:\\Projects\\Automatic testing labs\\tests-lab3\\lab3\\lab3\\lab3.csproj",
       "projectName": "lab3",
-      "projectPath": "E:\\studying\\тестування\\lab3\\lab3\\lab3.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "E:\\studying\\тестування\\lab3\\lab3\\obj\\",
+      "projectPath": "C:\\Projects\\Automatic testing labs\\tests-lab3\\lab3\\lab3\\lab3.csproj",
+      "packagesPath": "C:\\Users\\slavi\\.nuget\\packages\\",
+      "outputPath": "C:\\Projects\\Automatic testing labs\\tests-lab3\\lab3\\lab3\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "E:\\visual studio\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\slavi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6671,7 +6666,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

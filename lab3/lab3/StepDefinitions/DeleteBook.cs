@@ -20,7 +20,7 @@ namespace YourNamespace
         [When(@"I send a DELETE request with ID and a valid token")]
         public async Task WhenISendADELETERequestWithIDAndAValidToken()
         {
-            var request = new HttpRequestMessage(HttpMethod.Delete, endpoint.Replace("{id}", "158"));
+            var request = new HttpRequestMessage(HttpMethod.Delete, endpoint.Replace("{id}", "142"));
 
             // Додайте заголовок "Cookie" зі значенням токена
             request.Headers.Add("Cookie", $"token={CreateToken.token}");
